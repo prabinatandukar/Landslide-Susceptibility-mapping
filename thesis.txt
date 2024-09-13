@@ -1,0 +1,16 @@
+create a folder cslled thesis:
+python -m venv C:\TEMP\thesis
+cd C:\TEMP\thesis\Scripts
+activate 
+pip install jupyter lab 
+make new folder
+cd C:\TEMP\project
+jupyter lab
+(go to python command prompt): (arcgispro-py3) C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3>cd C:\TEMP\thesis\Scripts
+
+packages 
+scikit learn: conda install -c conda-forge scikit-learn
+xgboost: conda install -c conda-forge py-xgboost
+pandas
+matplotlib
+numpy
